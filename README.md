@@ -1,26 +1,10 @@
-## Hi, I'm Fatema Ahmed 👋
-# Hi, I'm Fatema Ahmed Khalil 👋
+### Hi there 👋, Fatema Ahmed Khalil
+#### Embedded System Engineer
 
-## About Me
+- 🔭 I’m currently working on this page. 
 
-I am passionate about embedded systems and enjoy working on **FOTA projects** and **microcontroller programming**.
 
-## Programming Languages
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FatemaAhmedKhalil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fatemaahmed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](fatemahmedkhalil@gmail.com)  
 
-- C / C++
-- Python
-- Embedded C
-- JavaScript (optional)
-- HTML/CSS (optional)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Gmail](mailto:your-email@gmail.com)
-- [HackerRank](https://www.hackerrank.com/your-hackerrank-username)
-- [Facebook](https://www.facebook.com/your-facebook-username)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatemaAhmedKhalil&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhmedKhalil)](https://github.com/anuraghazra/github-readme-stats)
 
