@@ -6,7 +6,7 @@
 
 
 # About Me 
-a fresh graduate Communication Engineer with a passion for Embedded Systems. I’ve dedicated my academic and project work to mastering embedded development, with a focus on microcontrollers, real-time systems, and hardware-software integration.
+a Fresh Graduate Communication Engineer with a passion for Embedded Systems. I’ve dedicated my academic and project work to mastering embedded development, with a focus on microcontrollers, real-time systems, and hardware-software integration.
 
 I have a solid understanding of automotive systems and Embedded Linux, and I’m eager to bring my skills to the cutting-edge of embedded technology. My journey in embedded systems has fueled my interest in low-level programming, firmware development, and creating efficient, optimized solutions for complex systems.
 
@@ -14,6 +14,7 @@ I’m driven by a passion to learn, grow, and contribute to impactful projects. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhmedKhalil&layout=compact&theme=tokyonight&hide_border=true)
 
+# Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=UDS_Implementation_ISO14229&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/UDS_Implementation_ISO14229)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=FOTA&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/FOTA)
 
 
