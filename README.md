@@ -16,5 +16,6 @@ I’m driven by a passion to learn, grow, and contribute to impactful projects. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=UDS_Implementation_ISO14229&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/UDS_Implementation_ISO14229)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=FOTA&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/FOTA)
 
 
