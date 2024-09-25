@@ -1,4 +1,4 @@
-# Hey, I'm [Fatema Ahmed] 👋😃
+# Hey, I'm Fatema Ahmed 👋😃
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/fatemaahmed/)]([https://www.linkedin.com/in/fatemaahmed/](https://www.linkedin.com/in/fatemaahmed/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fatemahmedkhalil@gmail.com)](mailto:fatemahmedkhalil@gmail.com)
@@ -6,6 +6,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhmedKhalil&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhmedKhalil&layout=compact&theme=tokyonight&hide_border=true)
 
 
