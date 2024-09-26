@@ -1,9 +1,9 @@
 # Hey, I'm Fatema Ahmed 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/fatemaahmed/)]([https://www.linkedin.com/in/fatemaahmed/](https://www.linkedin.com/in/fatemaahmed/))
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fatemahmedkhalil@gmail.com)](mailto:fatemahmedkhalil@gmail.com)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=[https://www.hackerrank.com/YOUR_HACKERRANK_PROFILE](https://www.hackerrank.com/profile/Fatema_Ahmed))]([https://www.hackerrank.com/YOUR_HACKERRANK_PROFILE](https://www.hackerrank.com/profile/Fatema_Ahmed))
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=[https://leetcode.com/YOUR_LEETCODE_PROFILE](https://leetcode.com/u/FatemaAhmedKhalil/))]([https://leetcode.com/YOUR_LEETCODE_PROFILE](https://leetcode.com/u/FatemaAhmedKhalil/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/fatemaahmed/)](https://www.linkedin.com/in/fateeaahmed/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fatemahmedkhalil@gmail.com)](mmilto:fatemahmedkhalil@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link==htps://www.hackerrank.com/profile/Fatema_Ahmed)](https://www.hackerrank.com/profile/Fatema_Ahmed)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/FatemaAhmedKhalil/)](https://leetcode.com/u/FatemaAhmedKhalil/)
 
 
 
