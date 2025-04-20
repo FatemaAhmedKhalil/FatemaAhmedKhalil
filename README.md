@@ -8,11 +8,15 @@
 
 
 # About Me 
-a Fresh Graduate Communication Engineer with a passion for Embedded Systems. I’ve dedicated my academic and project work to mastering embedded development, with a focus on microcontrollers, real-time systems, and hardware-software integration.
+I am a Fresh Graduate in Communication Engineering with a strong passion for Embedded Systems and Software Testing. Throughout my academic journey and project work, I have developed a solid foundation in embedded development, focusing on microcontrollers, real-time systems, hardware-software integration, and the principles of rigorous testing to ensure system reliability and performance.
 
-I have a solid understanding of automotive systems and Embedded Linux, and I’m eager to bring my skills to the cutting-edge of embedded technology. My journey in embedded systems has fueled my interest in low-level programming, firmware development, and creating efficient, optimized solutions for complex systems.
+My expertise spans automotive systems, Embedded Linux, Embedded Android, firmware development, and low-level programming, where I strive to create efficient, optimized solutions for complex systems. At the same time, I have cultivated a deep appreciation for software testing as a discipline that is critical to delivering high-quality products, whether in embedded systems or broader software applications. My experience includes designing and implementing test plans, automating test cases, and utilizing debugging and simulation tools to validate functionality, performance, and security across diverse platforms.
 
-I’m driven by a passion to learn, grow, and contribute to impactful projects. Currently, I’m actively seeking opportunities in the embedded industry where I can apply my knowledge, collaborate with talented professionals, and continue honing my skills to contribute meaningfully to innovation in the embedded space.
+I bring a meticulous and detail-oriented approach to both development and testing, understanding that quality assurance is not just about finding defects but also about preventing them through robust design and thorough validation. I am skilled in leveraging testing frameworks, writing test scripts, and employing methodologies such as unit testing, integration testing, system testing, and regression testing to ensure comprehensive coverage and reliable outcomes.
+
+Driven by a commitment to quality and innovation, I aim to bridge the gap between development and testing, ensuring that systems are not only functional but also resilient and user-friendly. I am eager to contribute my skills to impactful projects in the technology industry, whether in embedded systems or software development, where I can collaborate with talented professionals, solve challenging problems, and continue honing my expertise in both domains.
+
+I am actively seeking opportunities to apply my knowledge in meaningful ways, driving innovation and delivering high-quality solutions that make a difference.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhmedKhalil&layout=compact&theme=tokyonight&hide_border=true)
 
