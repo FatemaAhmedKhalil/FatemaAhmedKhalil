@@ -1,33 +1,37 @@
 # Hey, I'm Fatema Ahmed 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/fatemaahmed/)](https://www.linkedin.com/in/fatemaahmed/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fatemahmedkhalil@gmail.com)](mailto:fatemahmedkhalil@gmail.com)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/Fatema_Ahmed)](https://www.hackerrank.com/profile/Fatema_Ahmed)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/FatemaAhmedKhalil/)](https://leetcode.com/u/FatemaAhmedKhalil/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fatemaahmed/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:fatemahmedkhalil@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Fatema_Ahmed)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/FatemaAhmedKhalil/)
 
 ---
 
 ## 👩‍💻 About Me  
 
 I’m currently a trainee at **ITI (Information Technology Institute) – Intake 46**, enrolled in the **System Administration track (9-Month Professional Program)**.  
-I’m building strong hands-on experience in **IT Administration and DevOps**, with a focus on designing, deploying, and managing reliable IT infrastructures.
+I’m building strong hands-on experience in **System Administration and DevOps**, focusing on managing, automating, and securing IT infrastructures.
 
-I have a background in **Communication Engineering**, which helps me approach systems with a solid technical foundation and problem-solving mindset. Through labs and projects at ITI, I gained practical exposure to enterprise environments, server administration, virtualization, networking, and automation.
+I am also a **Communication Engineering graduate** with solid experience in **Embedded Systems**, including firmware development, microcontrollers, RTOS concepts, and hardware-software integration. This background gives me a strong technical foundation and a deep understanding of low-level systems, networking, and performance-critical applications.
 
-### 🔧 Key Interests & Skills  
-- System Administration (Windows Server & Linux)  
-- Active Directory, Group Policy, DNS, DHCP  
-- Virtualization (VMware, Hyper-V)  
-- Networking fundamentals  
-- Scripting & Automation (PowerShell, Bash)  
-- DevOps fundamentals (CI/CD concepts, containers, monitoring)  
+Through my academic projects and practical training, I’ve worked on real-world scenarios spanning:
+- Embedded systems development and testing  
+- Server administration and enterprise IT environments  
+- Virtualization, networking, and automation  
+- DevOps fundamentals and CI/CD concepts  
 
-I’m passionate about building **stable, secure, and scalable systems**, and I’m continuously improving my DevOps skills to bridge the gap between infrastructure and automation.  
-Currently, I’m seeking opportunities to apply my skills in **System Administration / DevOps / Cloud & Infrastructure roles**.
+I’m passionate about building **reliable systems**—from low-level embedded firmware to large-scale IT infrastructures—and I enjoy bridging the gap between **hardware, software, and operations**.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaAhmedKhalil&layout=compact&theme=tokyonight&hide_border=true)
+### 🔧 Skills & Interests  
+- **System Administration:** Windows Server, Linux, Active Directory, GPO, DNS, DHCP  
+- **Virtualization:** VMware, Hyper-V  
+- **Networking:** TCP/IP, routing basics, services configuration  
+- **Automation & Scripting:** PowerShell, Bash  
+- **DevOps:** CI/CD concepts, containers, monitoring  
+- **Embedded Systems:** STM32, Embedded C, Embedded Linux, RTOS basics, device drivers, bootloaders  
+
 
 ---
 
