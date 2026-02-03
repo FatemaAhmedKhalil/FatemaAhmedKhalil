@@ -36,8 +36,8 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 ---
 
 ## 📌 Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Yocto_Project_RaspberryPi3&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Yocto_Project_RaspberryPi3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=UDS_Implementation_ISO14229&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/UDS_Implementation_ISO14229)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=FOTA&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/FOTA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Smart_Railway_System&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Smart_Railway_System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Gazara_Grocery_Store&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Gazara_Grocery_Store)
+[![Yocto Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Yocto_Project_RaspberryPi3&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Yocto_Project_RaspberryPi3)
+[![UDS Implementation ISO14229](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=UDS_Implementation_ISO14229&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/UDS_Implementation_ISO14229)
+[![FOTA](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=FOTA&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/FOTA)
+[![Smart Railway System](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Smart_Railway_System&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Smart_Railway_System)
+[![Gazara Grocery Store](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Gazara_Grocery_Store&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Gazara_Grocery_Store)
