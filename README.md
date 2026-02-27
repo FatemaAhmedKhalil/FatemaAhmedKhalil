@@ -36,6 +36,9 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 ---
 
 ## 📌 Projects  
+[![VMware vSphere Infrastructure Implementation](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=VMware-vSphere-Infrastructure-Implementation&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/VMware-vSphere-Infrastructure-Implementation)
+
+
 [![MCSA MultiDomain Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=MCSA-MultiDomain-Enterprise&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/MCSA-MultiDomain-Enterprise)
 
 [![Yocto Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Yocto_Project_RaspberryPi3&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Yocto_Project_RaspberryPi3)
