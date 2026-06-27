@@ -51,3 +51,5 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 
 
 [![MCSA MultiDomain Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=MCSA-MultiDomain-Enterprise&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/MCSA-MultiDomain-Enterprise)
+
+[![CCNA Hospital Network Infrastructure Design](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Enterprise-Hospital-Network-Infrastructure-Design&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Enterprise-Hospital-Network-Infrastructure-Design)
