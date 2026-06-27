@@ -25,6 +25,14 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 
 ---
 
+### 🏅 Certificates
+- AWS Certified Solutions Architect Associate – Amazon Web Services (AWS)⁠
+- Red Hat Certified System Administrator (RHCSA) – Red Hat⁠
+- AWS Certified Cloud Practitioner – Amazon Web Services (AWS)⁠
+- HCCDA-Tech Essentials – Huawei⁠
+
+---
+
 ### 🔧 Skills & Interests  
 - **System Administration:** Linux Administration, Windows Server, Web Server, vSphere, AWS
 - **DevOps:** Ansible, Terraform, Docker, Kubernetes, Jenkins, CI/CD Tools
