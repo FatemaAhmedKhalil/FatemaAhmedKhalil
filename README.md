@@ -47,6 +47,8 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 ## 📌 Projects
 [![3-Tier Web Application on AWS](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Dynamic_ThreeTier_WebApplication_AWS&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Dynamic_ThreeTier_WebApplication_AWS)
 
+[![TUI User Manager Script](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=TUI_User_Manager-Implementation&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/TUI_User_Manager)
+
 [![VMware vSphere Infrastructure Implementation](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=VMware-vSphere-Infrastructure-Implementation&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/VMware-vSphere-Infrastructure-Implementation)
 
 
