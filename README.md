@@ -26,13 +26,13 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 ---
 
 ### 🔧 Skills & Interests  
-- **System Administration:** Windows Server, Linux, Active Directory, GPO, DNS, DHCP  
-- **Virtualization:** VMware, Hyper-V  
-- **Networking:** TCP/IP, routing basics, services configuration  
-- **Automation & Scripting:** PowerShell, Bash  
-- **DevOps:** CI/CD concepts, containers, monitoring  
-- **Embedded Systems:** STM32, Embedded C, Embedded Linux, RTOS basics, device drivers, bootloaders  
-
+- **System Administration** Linux Administration, Windows Server, Web Server, vSphere, AWS
+- **DevOps** Ansible, Terraform, Docker, Kubernetes, Jenkins, CI/CD Tools
+- **Networking** TCP/IP, DNS, SSH, Network Troubleshooting, CCNA, CCNP
+- **Database Administration** SQL/PLSQL, Oracle Database, Backup and recovery fundamentals
+- **Programming** Python, Bash, C, C++, MySQL, Data Structures, Problem Solving
+- **Testing** Manual Testing, Test Cases, Bug Reporting (Jira, Excel), Git, GitHub
+- **Embedded Systems** ARM STM32, AVR, Embedded Linux, Yocto, UART, SPI, I2C, CAN, LIN, Ethernet
 
 ---
 
