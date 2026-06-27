@@ -26,13 +26,13 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 ---
 
 ### 🔧 Skills & Interests  
-- **System Administration** Linux Administration, Windows Server, Web Server, vSphere, AWS
-- **DevOps** Ansible, Terraform, Docker, Kubernetes, Jenkins, CI/CD Tools
-- **Networking** TCP/IP, DNS, SSH, Network Troubleshooting, CCNA, CCNP
-- **Database Administration** SQL/PLSQL, Oracle Database, Backup and recovery fundamentals
-- **Programming** Python, Bash, C, C++, MySQL, Data Structures, Problem Solving
-- **Testing** Manual Testing, Test Cases, Bug Reporting (Jira, Excel), Git, GitHub
-- **Embedded Systems** ARM STM32, AVR, Embedded Linux, Yocto, UART, SPI, I2C, CAN, LIN, Ethernet
+- **System Administration:** Linux Administration, Windows Server, Web Server, vSphere, AWS
+- **DevOps:** Ansible, Terraform, Docker, Kubernetes, Jenkins, CI/CD Tools
+- **Networking:** TCP/IP, DNS, SSH, Network Troubleshooting, CCNA, CCNP
+- **Database Administration:** SQL/PLSQL, Oracle Database, Backup and recovery fundamentals
+- **Programming:** Python, Bash, C, C++, MySQL, Data Structures, Problem Solving
+- **Testing:** Manual Testing, Test Cases, Bug Reporting (Jira, Excel), Git, GitHub
+- **Embedded Systems:** ARM STM32, AVR, Embedded Linux, Yocto, UART, SPI, I2C, CAN, LIN, Ethernet
 
 ---
 
@@ -43,13 +43,5 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 
 
 [![MCSA MultiDomain Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=MCSA-MultiDomain-Enterprise&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/MCSA-MultiDomain-Enterprise)
-
-[![Yocto Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Yocto_Project_RaspberryPi3&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Yocto_Project_RaspberryPi3)
-
-[![UDS Implementation ISO14229](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=UDS_Implementation_ISO14229&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/UDS_Implementation_ISO14229)
-
-[![FOTA](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=FOTA&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/FOTA)
-
-[![Smart Railway System](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Smart_Railway_System&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Smart_Railway_System)
 
 [![Gazara Grocery Store](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Gazara_Grocery_Store&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Gazara_Grocery_Store)
