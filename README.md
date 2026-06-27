@@ -43,5 +43,3 @@ I’m passionate about building **reliable systems**—from low-level embedded f
 
 
 [![MCSA MultiDomain Project](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=MCSA-MultiDomain-Enterprise&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/MCSA-MultiDomain-Enterprise)
-
-[![Gazara Grocery Store](https://github-readme-stats.vercel.app/api/pin/?username=FatemaAhmedKhalil&repo=Gazara_Grocery_Store&theme=tokyonight)](https://github.com/FatemaAhmedKhalil/Gazara_Grocery_Store)
